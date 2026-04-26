@@ -1,0 +1,4 @@
+{
+  "diagnosticMode": "workspace",
+  "exclude": ["**/.venv", "**/__pycache__"]
+}
